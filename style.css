@@ -5,10 +5,6 @@
     padding: 0;
 }
 
-body {
-    font-family: 'Poppins', sans-serif;
-}
-
 /* NavBar */
 
 nav .nav-item {
@@ -30,11 +26,18 @@ nav .navbar-brand img {
 /* student detailes */
 .student-table{
     margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
 }
-/* .student-table-heading{
+.add-event{
+    font-family: 'Roboto', sans-serif;
+}
+.add-event td input{
+    padding: 2px;
 
-} */
-
+}
+.add-event th{
+    padding-left: 20px;
+}
 
 .accordion-button:not(.collapsed) {
     color: #000000;
