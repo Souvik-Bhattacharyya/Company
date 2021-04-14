@@ -30,10 +30,12 @@ nav .navbar-brand img {
 }
 .add-event{
     font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
 }
 .add-event td input{
     padding: 2px;
-
+    border: none;
+    background-color: rgb(240, 240, 240);
 }
 .add-event table{
     margin-top: 20px;
