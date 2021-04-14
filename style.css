@@ -35,9 +35,14 @@ nav .navbar-brand img {
     padding: 2px;
 
 }
-.add-event th{
-    padding-left: 20px;
+.add-event table{
+    margin-top: 20px;
 }
+/* .add-event th{
+    padding-left: 20px;
+    text-align: center;
+    font-size: 18px;
+} */
 
 .accordion-button:not(.collapsed) {
     color: #000000;
@@ -46,4 +51,7 @@ nav .navbar-brand img {
     font-size: 18px;
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
+}
+.table input{
+    width: 80%;
 }
